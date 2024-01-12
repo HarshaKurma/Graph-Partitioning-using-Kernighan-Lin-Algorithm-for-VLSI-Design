@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan  8 10:47:09 2024
-
-@author: INTENT Lab
-"""
 
 
 import sys
